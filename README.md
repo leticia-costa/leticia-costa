@@ -1,6 +1,6 @@
 <h2> Olá!!! Tudo bem? Me chamo Leticia Costa!</h2>
   
-<p>Atualmente trabalho como desenvolvedora front-end, e gosto demais de programar com a biblioteca React e gosto muito de HTML e CSS!</p>
+<p>Atualmente trabalho como desenvolvedora front-end, e programo com a biblioteca React com TypeScript e JavaScript e gosto muito de HTML e CSS!</p>
 
 <div>
   <p>Linguagens:</p>
